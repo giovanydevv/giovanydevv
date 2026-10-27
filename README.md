@@ -25,7 +25,7 @@
 |---|---|---|
 | [**Inventory Management API**](https://github.com/wineinventory-Hub/wineinventory-backend) | REST API with 10+ endpoints in 6 modules, JWT authentication and role-based access (RBAC), DDD layered architecture. | Java · Spring Boot · Spring Security · JPA · PostgreSQL |
 | [**Sales Dashboard & Automated Report**](https://github.com/giovanydevv/dashboard-ventas-python) | Cleans 9,994 sales records with pandas, models them as a star schema for Power BI (12 DAX measures) and generates a 7-sheet Excel report in ~2 seconds. | Python · pandas · Power BI · DAX · openpyxl · pytest |
-| [**Android App**](https://github.com/Resolum-Fundamentos/Intiva-mobile-application)) | Team project: MVVM app with 10+ reusable UI components and asynchronous REST API consumption. | Kotlin · Android · MVVM |
+| [**Android App**](https://github.com/Resolum-Fundamentos/Intiva-mobile-application) | Team project: MVVM app with 10+ reusable UI components and asynchronous REST API consumption. | Kotlin · Android · MVVM |
 | [**Portfolio**](https://github.com/giovanydevv/giovanydevv.github.io) | My personal site, built with plain HTML, CSS and JavaScript. Projects load from JSON. | HTML · CSS · JavaScript |
 
 ### 🛠️ Tech stack
